@@ -27,5 +27,7 @@
   </tr>
 </table>
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ4MjMzM2NqbnduZ2Rpemx5dzE1NjZlZW16eGdremFxdjNlbWV4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp
+ <p align="center"> 
+        <img src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ4MjMzM2NqbnduZ2Rpemx5dzE1NjZlZW16eGdremFxdjNlbWV4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp)" alt="dev" width="100%"/>
+      </p>
 
