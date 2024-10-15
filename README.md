@@ -1,4 +1,4 @@
-- 👋 Lưu Quốc Bảo
+- 👋 Lưu Quốc Bảo - thứ 3 - Ca3
 - 👀 Là 1 người hài hước
 - 🌱 Sinh viên khoa công nghệ thông tin trường Huflit
 - 📫 Facebook: https://www.facebook.com/bao.luu.180704?mibextid=LQQJ4d
