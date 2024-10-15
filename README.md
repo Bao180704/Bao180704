@@ -1,4 +1,4 @@
-- 👋 Lưu Quốc Bảo
+![6623cce4fa0943571a18](https://github.com/user-attachments/assets/765d8b55-5aaf-46f0-865b-859a3468454d)- 👋 Lưu Quốc Bảo
 - 👀 Là 1 người hài hước
 - 🌱 Sinh viên khoa công nghệ thông tin trường Huflit
 - 📫 Facebook: https://www.facebook.com/bao.luu.180704?mibextid=LQQJ4d
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-![74651e5ed7966ec83787](https://github.com/user-attachments/assets/75b2910a-111f-4959-b79a-9c42abf2a40d)
+![6623cce4fa0943571a18](https://github.com/user-attachments/assets/11cf9ceb-c1b8-4297-b202-d4a39d201f2a)
 
 <table style="width:100%;">
   <tr>
@@ -28,3 +28,5 @@
 </table>
  
 
+
+![74651e5ed7966ec83787](https://github.com/user-attachments/assets/75b2910a-111f-4959-b79a-9c42abf2a40d)
