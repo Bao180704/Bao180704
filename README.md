@@ -6,7 +6,9 @@
   <a href=["https://www.facebook.com/01.tien"](https://www.facebook.com/bao.luu.180704?mibextid=LQQJ4d) alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+  <a href="https://instagram.com/simplified_learner" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" />
+  </a>
 </p>
 
 ![74651e5ed7966ec83787](https://github.com/user-attachments/assets/75b2910a-111f-4959-b79a-9c42abf2a40d)
