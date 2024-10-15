@@ -2,13 +2,12 @@
 - 👀 Là 1 người hài hước
 - 🌱 Sinh viên khoa công nghệ thông tin trường Huflit
 - 📫 Facebook: https://www.facebook.com/bao.luu.180704?mibextid=LQQJ4d
+- Instargam:  https://www.instagram.com/qb_vaderr/
 <p align="center">
   <a href="https://www.facebook.com/bao.luu.180704?mibextid=LQQJ4d" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://instagram.com/simplified_learner" target="blank">
-    https://www.instagram.com/qb_vaderr/
-  </a>
+  
 </p>
 
 
