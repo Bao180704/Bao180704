@@ -1,4 +1,4 @@
-![6623cce4fa0943571a18](https://github.com/user-attachments/assets/765d8b55-5aaf-46f0-865b-859a3468454d)- 👋 Lưu Quốc Bảo
+- 👋 Lưu Quốc Bảo
 - 👀 Là 1 người hài hước
 - 🌱 Sinh viên khoa công nghệ thông tin trường Huflit
 - 📫 Facebook: https://www.facebook.com/bao.luu.180704?mibextid=LQQJ4d
